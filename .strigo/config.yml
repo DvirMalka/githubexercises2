@@ -1,0 +1,104 @@
+---
+classes:
+  - exercises:
+      - title: Prerequisites
+        file: ../Workbook/strigo_prerequisites.md
+        syntax: md-extended
+
+      - title: minikube usage
+        file: ../Workbook/tp1.1.md
+        syntax: md-extended
+      - title: kubectl
+        file: ../Workbook/tp1.2.md
+        syntax: md-extended
+      - title: kubectl run
+        file: ../Workbook/tp1.3.md
+        syntax: md-extended
+
+      - title: Pods
+        file: ../Workbook/tp2.1.md
+        syntax: md-extended
+      - title: Labels
+        file: ../Workbook/tp2.2.md
+        syntax: md-extended
+      - title: Annotations and Namespaces
+        file: ../Workbook/tp2.3.md
+        syntax: md-extended
+      - title: logs
+        file: ../Workbook/tp2.4.md
+        syntax: md-extended
+      - title: Init Containers
+        file: ../Workbook/tp2.5.md
+        syntax: md-extended
+      - title: Life cycle
+        file: ../Workbook/tp2.6.md
+        syntax: md-extended
+      - title: Liveness probes
+        file: ../Workbook/tp2.7.md
+        syntax: md-extended
+
+      - title: ReplicaSets
+        file: ../Workbook/tp3.1.md
+        syntax: md-extended
+      - title: DaemonSets
+        file: ../Workbook/tp3.2.md
+        syntax: md-extended
+      - title: Jobs and CronJobs
+        file: ../Workbook/tp3.3.md
+        syntax: md-extended
+
+      - title: Services and Service Discovery
+        file: ../Workbook/tp4.1.md
+        syntax: md-extended
+      - title: NodePort and LoadBalancer
+        file: ../Workbook/tp4.2.md
+        syntax: md-extended
+      - title: Ingress
+        file: ../Workbook/tp4.3.md
+        syntax: md-extended
+      - title: Sonde Readiness
+        file: ../Workbook/tp4.4.md
+        syntax: md-extended
+      - title: Services headless
+        file: ../Workbook/tp4.5.md
+        syntax: md-extended
+      - title: Port forward
+        file: ../Workbook/tp4.6.md
+        syntax: md-extended
+
+      - title: Shared Volume
+        file: ../Workbook/tp5.1.md
+        syntax: md-extended
+      - title: hostPath Volume
+        file: ../Workbook/tp5.2.md
+        syntax: md-extended
+      - title: PVC and PV
+        file: ../Workbook/tp5.3.md
+        syntax: md-extended
+
+      - title: ConfigMaps
+        file: ../Workbook/tp6.1.md
+        syntax: md-extended
+      - title: Secrets
+        file: ../Workbook/tp6.2.md
+        syntax: md-extended
+
+      - title: Deployments
+        file: ../Workbook/tp7.1.md
+        syntax: md-extended
+
+      - title: StatefulSets
+        file: ../Workbook/tp8.1.md
+        syntax: md-extended
+
+      - title: Helm
+        file: ../Workbook/tp9.1.md
+        syntax: md-extended
+
+      - title: Kustomize
+        file: ../Workbook/tp10.1.md
+        syntax: md-extended
+
+      - title: Download
+        file: ../Workbook/strigo_afterwords.md
+        syntax: md-extended
